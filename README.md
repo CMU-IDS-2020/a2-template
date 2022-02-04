@@ -1,7 +1,7 @@
 # CMU Interactive Data Science Assigment 2
 
 * **Team members**: XXXX@andrew.cmu.edu and XXXX@andrew.cmu.edu (Update XXXX with your team's emails)
-* **Online URL**: https://share.streamlit.io/cmu-ids-2021/YYYY/master/streamlit_app.py (Update YYYY with your repo name)
+* **Online URL**: https://share.streamlit.io/cmu-ids-2022/YYYY/master/streamlit_app.py (Update YYYY with your repo name)
 
 ## Instructions
 
@@ -13,10 +13,15 @@ To run the application locally, install the dependencies with `pip install -r re
 
 ### Deploy to Streamlit Sharing
 
-Before you can view your application online, you need to have it set up with Streamlit Sharing. To do this, create an issue that asks the TAs to deploy your repo. To create the issue, you can follow [this link](../../issues/new?body=Dear+TAs%2C+please+add+our+repo+to+Streamlit+sharing+and+then+respond+to+this+issue+with+the+URL+to+the+deployed+application.&title=Setup+Streamlit+sharing&assignees=kunalkhadilkar,hypotext) They will respond with a URL for your application. Once the repo is set up, please update the URL as the top of this readme and add the URL as the website for this GitHub repository.
+Before you can view your application online, you need to have it set up with Streamlit Cloud. 
+Sign up for a [free Starter Streamlit Cloud account](https://streamlit.io/cloud). 
+
+Then, go to [share.streamlit.io](https://share.streamlit.io) to deploy your Streamlit app by creating a new app and pointing it to your github repo.
+
+Once the repo is set up, please update the URL as the top of this readme and add the URL as the website for this GitHub repository.
 
 ### Deliverables
 
 - [ ] An interactive data science or machine learning application using Streamlit.
-- [ ] The URL at the top of this readme needs to point to your application online. It should also list the names of the team members. 
+- [ ] The URL at the top of this readme needs to point to your Streamlit application online. The application should also list the names of the team members. 
 - [ ] A write-up that describes the goals of your application, justifies design decisions, and gives an overview of your development process. Use the `writeup.md` file in this repository. You may add more sections to the document than the template has right now.
